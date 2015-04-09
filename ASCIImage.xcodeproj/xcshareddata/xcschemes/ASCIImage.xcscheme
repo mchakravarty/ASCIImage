@@ -20,20 +20,6 @@
                ReferencedContainer = "container:ASCIImage.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "56BB37571758A53A00BDF2AF"
-               BuildableName = "ASCIImageTests.xctest"
-               BlueprintName = "ASCIImageTests"
-               ReferencedContainer = "container:ASCIImage.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction

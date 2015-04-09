@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E742B22C1AD69954006FBE1D"
+               BlueprintIdentifier = "56BB37571758A53A00BDF2AF"
                BuildableName = "ASCIImageTests.xctest"
                BlueprintName = "ASCIImageTests"
                ReferencedContainer = "container:ASCIImage.xcodeproj">
@@ -43,10 +43,10 @@
       buildConfiguration = "Debug">
       <Testables>
          <TestableReference
-            skipped = "NO">
+            skipped = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E742B22C1AD69954006FBE1D"
+               BlueprintIdentifier = "56BB37571758A53A00BDF2AF"
                BuildableName = "ASCIImageTests.xctest"
                BlueprintName = "ASCIImageTests"
                ReferencedContainer = "container:ASCIImage.xcodeproj">
